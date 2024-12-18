@@ -1,1 +1,2 @@
-# LumiCube
+# LumiCube Booklet
+
